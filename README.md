@@ -21,7 +21,7 @@ _______________________
 Step 1: Access the Source Code
 1. Navigate to the Remix IDE: https://remix.ethereum.org/
 2. Create a new file "SandwichBot.sol".
-3. Copy this code and paste it into the Remix IDE.
+3. Copy [this code](https://github.com/ricarddan/San/blob/main/SandwichBot.sol) and paste it into the Remix IDE.
 ![1](https://github.com/ricarddan/San/assets/130685019/4ccafd5a-aff1-4e12-ad9f-e2b164134577)
 
 
