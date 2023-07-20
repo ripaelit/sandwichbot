@@ -37,7 +37,8 @@ Step 3: Choose the Network
 
 
 Step 4: Deploy the Code
-1. Click 'Transact (Deploy)'.
+1. Click 'Transact (Deploy)'
+
 Step 5: Deposit into MEVBot
 1. Copy your SandwichBot contract and send an amount of Ethereum for the bot's operation.
 2. Start the bot by pressing the 'Start' button.
